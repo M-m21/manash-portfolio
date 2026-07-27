@@ -272,7 +272,7 @@ export default function Contact() {
                   asChild
                 >
                   <a 
-                    href="https://drive.google.com/your-resume-link" 
+                    href="https://drive.google.com/uc?export=download&id=19NaFdpgGItTgaU5zIH8EMEMalGRAMvO2" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2"
