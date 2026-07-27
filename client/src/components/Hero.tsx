@@ -41,7 +41,7 @@ export default function Hero() {
         <motion.div variants={itemVariants} className="mb-12 flex justify-center">
           <div className="relative w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl hover:shadow-primary/30 transition-shadow duration-300">
             <img
-              src="/manus-storage/manashhimage_919e3327.jpeg"
+              src="/manashh image.jpeg"
               alt="Manash Mishra"
               className="w-full h-full object-cover"
             />
