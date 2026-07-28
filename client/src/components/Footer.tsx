@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Left Section */}
           <div className="mb-6 md:mb-0">
             <p className="text-foreground/70 text-sm">
-              © {currentYear} Premium Portfolio. All rights reserved.
+              © {currentYear} Manash Mishra Designed & Developed by Manash Mishra . All rights reserved.
             </p>
           </div>
 
