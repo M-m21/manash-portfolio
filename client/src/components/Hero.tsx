@@ -104,7 +104,9 @@ export default function Hero() {
             className="rounded-full px-8 py-6 text-base font-semibold"
             asChild
           >
-            <a href="#contact">
+            <a href="https://drive.google.com/uc?export=download&id=19NaFdpgGItTgaU5zIH8EMEMalGRAMvO2"
+             target="_blank"
+             rel="noopener noreferrer">
               <Download className="mr-2 h-5 w-5" />
               Download Resume
             </a>
