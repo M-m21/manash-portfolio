@@ -22,33 +22,33 @@ export default function About() {
     },
   };
 
-  const timelineItems = [
-    {
-      year: "2020",
-      title: "B.Sc. in Information Technology",
-      description: "Completed bachelor's degree from Amity University Haryana",
-    },
-    {
-      year: "2021",
-      title: "Started Professional Journey",
-      description: "Began internships in data analysis and cybersecurity",
-    },
-    {
-      year: "2022",
-      title: "Full-Stack Development",
-      description: "Worked as Web Developer & Technical Consultant at Mishra Auto Parts",
-    },
-    {
-      year: "2023",
-      title: "Master's in Computer Applications",
-      description: "Completed MCA from Amity University Haryana",
-    },
-    {
-      year: "2024",
-      title: "Current Focus",
-      description: "Specializing in web development, data analytics, and cybersecurity",
-    },
-  ];
+ const timelineItems = [
+  {
+    year: "2021",
+    title: "Started B.Sc. in Information Technology",
+    description: "Began my Bachelor of Science in Information Technology at Amity University Haryana.",
+  },
+  {
+    year: "2024",
+    title: "Completed B.Sc. Information Technology",
+    description: "Graduated with a Bachelor's degree in Information Technology from Amity University Haryana.",
+  },
+  {
+    year: "2024",
+    title: "Started Master of Computer Applications (MCA)",
+    description: "Pursued MCA with a focus on Full-Stack Development, Data Analytics, Artificial Intelligence, IoT, and Cybersecurity.",
+  },
+  {
+    year: "2025",
+    title: "Professional Experience & Research",
+    description: "Completed Data Analyst and Cyber Security internships, worked on web development projects, and published a research paper on Java and modern software development.",
+  },
+  {
+    year: "2026",
+    title: "Completed MCA",
+    description: "Graduated with a Master of Computer Applications from Amity University Haryana and started my professional software development journey.",
+  },
+];
 
   return (
     <section id="about" className="py-20 md:py-32 bg-card/50">
@@ -63,7 +63,7 @@ export default function About() {
           <motion.div variants={itemVariants} className="mb-16 text-center">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">About Me</h2>
             <p className="text-lg text-foreground/70 max-w-2xl mx-auto">
-              Results-driven IT professional with expertise in software development, data analytics, and cybersecurity
+              MCA Graduate passionate about building modern software solutions using Full-Stack Development, Artificial Intelligence, IoT, Data Analytics, and Cybersecurity.
             </p>
           </motion.div>
 
@@ -71,7 +71,11 @@ export default function About() {
           <motion.div variants={itemVariants} className="mb-16 max-w-3xl mx-auto">
             <Card className="p-8 md:p-12 bg-background border-border/50">
               <p className="text-lg text-foreground/80 leading-relaxed mb-4">
-                I'm an MCA graduate from Amity University Haryana with a strong foundation in software development, data analytics, and cybersecurity. My journey began with a curiosity about technology, which evolved into a commitment to mastering modern development practices and security principles.
+                I'm an MCA graduate from Amity University Haryana with a strong passion for software engineering and emerging technologies. My journey started with curiosity about computers and gradually evolved into building web applications, AI-powered solutions, IoT projects, and cybersecurity skills.
+
+                During my academic journey, I completed internships in Data Analytics and Cybersecurity, developed business websites, published a research paper, and worked on real-world software projects. I enjoy solving practical problems through technology and continuously learning new tools and frameworks.
+
+                My goal is to contribute as a Software Developer by building reliable, scalable, and user-friendly applications while continuously improving my technical expertise.
               </p>
               <p className="text-lg text-foreground/80 leading-relaxed mb-4">
                 With hands-on experience through internships at leading companies like Vidhyarthi Vision Institute, Mishra Auto Parts, Hack-Tech Media, and Acmegrade, I've developed expertise in building scalable web applications, analyzing complex data, and implementing security best practices. I'm passionate about leveraging technology to solve real-world challenges.
