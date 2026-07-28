@@ -133,9 +133,11 @@ export default function LearningDashboard() {
           {/* Learning Stats */}
           <motion.div variants={itemVariants} className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
-              { label: "Courses Completed", value: "12" },
-              { label: "Books Read", value: "24" },
-              { label: "Certifications", value: "5" },
+              { label: "Major Projects", value: "3+" },
+              { label: "Internships", value: "2" },
+              { label: "Certifications", value: "10+" },
+              { label: "Books Read", value: "15+" },
+              { label: "Research Papers", value: "2+" },
               { label: "Learning Hours", value: "500+" },
             ].map((stat) => (
               <Card key={stat.label} className="p-6 bg-background border-border/50 text-center">

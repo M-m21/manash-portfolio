@@ -35,7 +35,7 @@ export default function Footer() {
 
           {/* Right Section */}
           <div className="text-foreground/70 text-sm">
-            <p>Crafted with passion using modern web technologies</p>
+            <p>Crafted with passion using React,TypeScript,Express</p>
           </div>
         </motion.div>
       </div>
