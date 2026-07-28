@@ -6,28 +6,20 @@ import { ExternalLink } from "lucide-react";
 export default function Research() {
   const researchItems = [
     {
-      title: "Prompt Engineering Best Practices for LLMs",
-      type: "Research Paper",
-      date: "2024",
-      description: "Comprehensive study on effective prompt engineering techniques for large language models",
-      tags: ["LLMs", "Prompt Engineering", "AI"],
-      link: "#",
-    },
-    {
-      title: "Vulnerability Analysis in Modern Web Frameworks",
-      type: "Technical Article",
-      date: "2024",
-      description: "Deep dive into common security vulnerabilities and mitigation strategies",
-      tags: ["Security", "Web Development", "OWASP"],
-      link: "#",
-    },
-    {
-      title: "Building Scalable AI Systems",
-      type: "Blog Post",
-      date: "2023",
-      description: "Lessons learned from building production-grade AI systems at scale",
-      tags: ["AI", "Architecture", "DevOps"],
-      link: "#",
+      title: "Evolution of Java and its Impact on Modern Software Development",
+  type: "Published Research Paper",
+  date: "November 2025",
+  description:
+    "Published in the International Journal for Multidisciplinary Research (IJFMR). This paper explores Java's evolution from its origins to modern enterprise development, cloud computing, microservices, and its continued impact on software engineering.",
+  tags: [
+    "Java",
+    "Software Engineering",
+    "Cloud Computing",
+    "Microservices",
+    "Research"
+  ],
+  link: "https://www.ijfmr.com/research-paper.php?id=62141",
+
     },
     {
       title: "Cybersecurity in the Age of AI",

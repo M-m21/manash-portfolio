@@ -69,7 +69,7 @@ export default function Journey() {
                   <div>
                     <h4 className="font-bold text-foreground mb-2">Achievements</h4>
                     <ul className="text-sm text-foreground/80 space-y-1">
-                      <li>• 10k+ GitHub stars</li>
+                      
                       <li>• Security certifications</li>
                       <li>• CTF competitions won</li>
                     </ul>
